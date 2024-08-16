@@ -1,5 +1,6 @@
 # GIT-Training
 
+Press `Ctrl+Shift+V` to preview this file.
 
 ##### Day 1: Foundations of GIT, GitHub, and Sourcetree (2 Hours)
 1. Introduction to Version Control (15 minutes)
