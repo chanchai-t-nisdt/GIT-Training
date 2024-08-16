@@ -2,7 +2,7 @@
 
 Press `Ctrl+Shift+V` to preview this file.
 
-##### Day 1: Foundations of GIT, GitHub, and Sourcetree (2 Hours)
+### Day 1: Foundations of GIT, GitHub, and Sourcetree (2 Hours)
 1. Introduction to Version Control (15 minutes)
     - Overview of version control systems and GIT.
     - Importance of version control in development workflows.
@@ -33,7 +33,7 @@ Press `Ctrl+Shift+V` to preview this file.
     - Address any immediate questions or concerns.
 
 
-##### Day 2: Collaborative Workshop and Best Practices (2 Hours)
+### Day 2: Collaborative Workshop and Best Practices (2 Hours)
 1. Recap of Day 1 (10 minutes)
     - Quick review of the concepts covered on Day 1.
     - Address any lingering questions.
