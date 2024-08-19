@@ -2,7 +2,7 @@
 
 ## Agenda
 
-#### Day 1
+### Day 1
 - Introduction (15 mins)
     - GIT vs GitHub
     - Sourcetree
@@ -16,11 +16,11 @@
     - Register GitHub account
     - Create organization
 
-#### Day 2
+### Day 2
 - Workshop #2 - Remote GIT (30 mins)
     - New remote repository
     - Add remote path to local repository
-    - Pull & Push
+    - Push & Pull
 - Workshop #3 - GIT collaboration (1 hr 20 mins)
     - Branch workflow (main, dev, feature, release,...)
 - Q&A (10 mins)
