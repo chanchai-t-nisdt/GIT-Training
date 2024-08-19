@@ -23,6 +23,8 @@
     - Push & Pull
 - Workshop #3 - GIT collaboration (1 hr 20 mins)
     - Branch workflow (main, dev, feature, release,...)
+    - Clone repository
+    - Pull request
 - Q&A (10 mins)
 
 
