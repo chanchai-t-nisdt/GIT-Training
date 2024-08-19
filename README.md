@@ -24,3 +24,6 @@
 - Workshop #3 - GIT collaboration (1 hr 20 mins)
     - Branch workflow (main, dev, feature, release,...)
 - Q&A (10 mins)
+
+
+
