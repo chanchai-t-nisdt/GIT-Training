@@ -1,4 +1,26 @@
-# Git basic
+# Introduction
+
+### GIT vs GitHub
+![GIT vs GitHub](img/git_vs_github.png)
+https://levelup.gitconnected.com/git-vs-github-synonyms-competitors-or-different-technologies-9a66e480feec
+
+### Sourcetree
+![Sourcetree](img/sourcetree.png)
+https://medium.com/@james.r.interns/why-you-should-use-sourcetree-1bc8814c32b6
+
+### GIT workflow
+![GIT workflow](img/git_work_flow.avif)
+https://dev.to/mollynem/git-github--workflow-fundamentals-5496
+
+
+
+---
+
+
+
+
+
+
 
 
 ## Configure Git
