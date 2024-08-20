@@ -75,16 +75,16 @@ git log
     ```
 
 #### 4. Push branch to remote repository
-    ```
-    git push [alias] [EXIST_BRANCH_NAME]
-    git push origin main
-    ```
+```
+git push [alias] [EXIST_BRANCH_NAME]
+git push origin main
+```
 
 #### 5. Pull brnch to update local branch repository
-    ```
-    git checkout [EXIST_BRANCH_NAME]
-    git pull
-    ```
+```
+git checkout [EXIST_BRANCH_NAME]
+git pull
+```
 
 
 ---
